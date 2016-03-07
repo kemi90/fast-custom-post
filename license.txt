@@ -1,0 +1,6 @@
+Fast Custom Post WordPress Plugin, 20016-2017 is distributed by the under terms of the GNU GPL 
+
+This program . Fast Custom Post is a free software, you can modify
+ & re-design it under the terms of the General Public License as published by 
+the Free Software Foundation; 
+This program is distributed in the hope that it will be useful and helpful for all wordpress users and developers, Thank You
